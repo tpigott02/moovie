@@ -8,6 +8,32 @@
         "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
         "type": "Canvas",
         "duration": 567.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tpigott02.github.io/moovie/annotations/movie-canvas-1-english-subtitles.json",
+            "label": {
+              "none": ["English Subtitles"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tpigott02.github.io/moovie/annotations/movie-canvas-1-scenes.json",
+            "label": {
+              "none": ["Scenes"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tpigott02.github.io/moovie/annotations/movie-canvas-1-dialogues-fran-ais.json",
+            "label": {
+              "none": ["Dialogues Français"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tpigott02.github.io/moovie/movie/canvas-1/paintings",
