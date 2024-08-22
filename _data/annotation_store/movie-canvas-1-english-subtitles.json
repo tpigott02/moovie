@@ -12,12 +12,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "“Warning: it was my intention to not set the action of the second part in a specific region of Black Africa. Paris February 28th, 1955.”",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "“Warning: it was my intention to not set the action of the second part in a specific region of Black Africa. Paris February 28th, 1955.”",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "01:09.00",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -43,12 +51,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "\"Four years ago already\"",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Four years ago already\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "06:55.00",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -74,12 +90,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "\"Come in\"",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Come in\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "07:00.00",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -105,12 +129,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "\"No no stop it, Kodjo. You're gonna break the records\"",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"No no stop it, Kodjo. You're gonna break the records\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "07:09.00",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -136,12 +168,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "\"Good evening, Kodjo\"",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Good evening, Kodjo\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "07:13.00",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -167,12 +207,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "\"Good evening, Beck\"",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Good evening, Beck\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "07:17.00",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -198,12 +246,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "\"I'm not bothering you too much?\"",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"I'm not bothering you too much?\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "07:42.00",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -229,12 +285,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "\"No\"",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"No\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "07:44.00",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -260,12 +324,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "\"Isn't today concert day?\"",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Isn't today concert day?\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "07:46.00",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -291,12 +363,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "\"What do you want me to start with? Ravel? Debussy? Mozart?\"",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"What do you want me to start with? Ravel? Debussy? Mozart?\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "07:56.00",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -322,12 +402,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "\"Whatever you want\"",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Whatever you want\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "08:04.00",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -353,12 +441,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "\"Tonight I'm going to play Beethoven's fourth symphony for you.\"",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Tonight I'm going to play Beethoven's fourth symphony for you.\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "08:08.00",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",

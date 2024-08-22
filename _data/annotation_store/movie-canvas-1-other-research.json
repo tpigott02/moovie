@@ -12,12 +12,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "<html>Brief mention in <i>Présence Africaine </i>by fellow filmmaker Sarah Maldoror, https://www.jstor.org/stable/24431143</html>",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<html>Brief mention in <i>Présence Africaine </i>by fellow filmmaker Sarah Maldoror, https://www.jstor.org/stable/24431143</html>",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "00:00.00",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -43,12 +51,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "https://www.jstor.org/stable/26742021",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "https://www.jstor.org/stable/26742021",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "00:00.01",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -74,12 +90,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "https://www.tandfonline.com/doi/pdf/10.1080/03064229108535060",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "https://www.tandfonline.com/doi/pdf/10.1080/03064229108535060",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "00:00.02",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -105,12 +129,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&user=IZI6I4YAAAAJ&citation_for_view=IZI6I4YAAAAJ:pqnbT2bcN3wC",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&user=IZI6I4YAAAAJ&citation_for_view=IZI6I4YAAAAJ:pqnbT2bcN3wC",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "00:00.03",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
