@@ -12,20 +12,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "<html><i>La Crise de Conscience Européenne </i><i>(1935), Paul Hazard (1878-1944), French critic, scholar, and historian. Hazard is most known for </i><i>La Crise </i><i>and the follow up </i><i>La Pensée européenne au XVIIIème siècle, de Montesquieu à Lessing</i><i> (1946), focusing on the intellectual history of the enlightenment (NYRB). The book seems to focus on the naissant conflict between Enlightenment values and their predecessors. \"One day, the French people, almost to a man, were thinking like Bossuet. The day after, they were thinking like Voltaire. No ordinary swing of the pedulum, that. It was a revolution\" (Hazard, XV). In the first chapter Hazard highlights the transformative effect that travel had on the beliefs of Europeans at this time: \"They arrived, these apostles from distant lands with their strange beliefs and customs, their laws, their own peculiar sense of values. They made a deep impression on a Europe only too eager to question them on their history and their religion\" (Hazard, 12). This continued contact via travel Hazard argues is the beginning of a revolution in the European understanding of not only European civilization, but civilization as a whole. \"The upshot of it all was that any man, however narrow and unimaginative, must have had it borne in upon him from his narrative that far away in distant Asia there were human beings in no way inferior to himself, however widely their mode of life might differ from his own. The notion of 'superiority' on which he had hitherto been brought up, as it were, was no longer valid. Henceforth he must think in other terms.'Difference' not 'superiority' was the appropriate word; a striking psychological readjustment. Yes, in Persia everything is different... Now, these Persians are not barbarians\" (Hazard, 19). (Close up)</i></html>",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "02:34.00",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><i>La Crise de Conscience Européenne </i><i>(1935), Paul Hazard (1878-1944), French critic, scholar, and historian. Hazard is most known for </i><i>La Crise </i><i>and the follow up </i><i>La Pensée européenne au XVIIIème siècle, de Montesquieu à Lessing</i><i> (1946), focusing on the intellectual history of the enlightenment (NYRB). The book seems to focus on the naissant conflict between Enlightenment values and their predecessors. \"One day, the French people, almost to a man, were thinking like Bossuet. The day after, they were thinking like Voltaire. No ordinary swing of the pedulum, that. It was a revolution\" (Hazard, XV). In the first chapter Hazard highlights the transformative effect that travel had on the beliefs of Europeans at this time: \"They arrived, these apostles from distant lands with their strange beliefs and customs, their laws, their own peculiar sense of values. They made a deep impression on a Europe only too eager to question them on their history and their religion\" (Hazard, 12). This continued contact via travel Hazard argues is the beginning of a revolution in the European understanding of not only European civilization, but civilization as a whole. \"The upshot of it all was that any man, however narrow and unimaginative, must have had it borne in upon him from his narrative that far away in distant Asia there were human beings in no way inferior to himself, however widely their mode of life might differ from his own. The notion of 'superiority' on which he had hitherto been brought up, as it were, was no longer valid. Henceforth he must think in other terms.'Difference' not 'superiority' was the appropriate word; a striking psychological readjustment. Yes, in Persia everything is different... Now, these Persians are not barbarians\" (Hazard, 19). (Close up)</i></html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -51,20 +43,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "\"La Crise de Conscience de L'Africain occidentalisé??\" draws a parallel between Hazard's work and possible works of Kodjo (or Vieyra). Rather than reorienting one's understanding of the world and foreigners from inferior to equal, perhaps Vieyra here is arguing for the reverse, that the approaching end of colonization demands a reevaluation of the self rather than foreigners in light of the end of a system which cast the colonized as inferiors. Vieyra here may be hinting here the need for a revolution in thought just akin to how the Enlightenment revolutionized European thought. Kodjo in some ways also parallels the travellers mentioned by Hazard, as a West African student presumably studying in France. (Close up)",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "02:43.00",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"La Crise de Conscience de L'Africain occidentalisé??\" draws a parallel between Hazard's work and possible works of Kodjo (or Vieyra). Rather than reorienting one's understanding of the world and foreigners from inferior to equal, perhaps Vieyra here is arguing for the reverse, that the approaching end of colonization demands a reevaluation of the self rather than foreigners in light of the end of a system which cast the colonized as inferiors. Vieyra here may be hinting here the need for a revolution in thought just akin to how the Enlightenment revolutionized European thought. Kodjo in some ways also parallels the travellers mentioned by Hazard, as a West African student presumably studying in France. (Close up)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",

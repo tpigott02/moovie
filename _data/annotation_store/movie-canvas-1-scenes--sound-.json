@@ -12,20 +12,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Credits over a mournful jazz song which is diegetic to the film, playing out of a small, desktop radio",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "00:27.00",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Credits over a mournful jazz song which is diegetic to the film, playing out of a small, desktop radio",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -51,20 +43,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Kodjo begins to hear African drumming, but it's unclear if the sound is diegetic or not, as he looks directly at the radio. It becomes diegetic as he flashes back to a memory of dancing in Africa. The song is not entirely synchronized with the image during the dance sequence.",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "03:11.00",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Kodjo begins to hear African drumming, but it's unclear if the sound is diegetic or not, as he looks directly at the radio. It becomes diegetic as he flashes back to a memory of dancing in Africa. The song is not entirely synchronized with the image during the dance sequence.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -90,20 +74,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "The drumming stops",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "06:12.30",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The drumming stops",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -129,20 +105,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Knocking at the door announces Beck's arrival",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "06:58.00",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Knocking at the door announces Beck's arrival",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -168,20 +136,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "African drumming can be heard again, which continues over the end title",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "09:05.00",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "African drumming can be heard again, which continues over the end title",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",

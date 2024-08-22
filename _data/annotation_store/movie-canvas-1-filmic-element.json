@@ -12,20 +12,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Kodjo goes in and out of focus to signal transition to flashback of Africa, after hearing the drumming",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "03:23.00",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Kodjo goes in and out of focus to signal transition to flashback of Africa, after hearing the drumming",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -51,20 +43,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Kodjo goes in and out of focus coming back to his room in Paris",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "06:10.00",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Kodjo goes in and out of focus coming back to his room in Paris",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -90,20 +74,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Kodjo goes in and out of focus as he begins to hear the drumming again rather than Beethoven's 4th Symphony",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "09:02.00",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Kodjo goes in and out of focus as he begins to hear the drumming again rather than Beethoven's 4th Symphony",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -129,20 +105,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "<iframe src=\"https://drive.google.com/file/d/1O13-axSKdDsGYT7CB6ySv3Ny8Dy_1PCU/preview\" width=\"640\" height=\"480\" allow=\"autoplay\"></iframe>",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "07:10.00",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<iframe src=\"https://drive.google.com/file/d/1O13-axSKdDsGYT7CB6ySv3Ny8Dy_1PCU/preview\" width=\"640\" height=\"480\" allow=\"autoplay\"></iframe>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
@@ -168,20 +136,12 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "<iframe src=\"https://drive.google.com/file/d/1HyoMKeX7SqtwMkW-ywjCpGKWzJ7LcyIq/preview\" width=\"640\" height=\"480\" allow=\"autoplay\"></iframe>",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "07:00.00",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<iframe src=\"https://drive.google.com/file/d/1HyoMKeX7SqtwMkW-ywjCpGKWzJ7LcyIq/preview\" width=\"640\" height=\"480\" allow=\"autoplay\"></iframe>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": {
           "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
