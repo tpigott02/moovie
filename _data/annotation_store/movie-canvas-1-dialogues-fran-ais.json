@@ -14,7 +14,38 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"C'était il y a quatre ans deja\"",
+        "value": "“AVERTISSEMENT : C’est à dessein que je n’ai pas voulu situer l’action de la deuxième partie dans une région bien déterminée de l’Afrique Noir. Paris 28 février 1955”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tpigott02.github.io/moovie/movie/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "69.0,80.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "movie-canvas-1-dialogues-fran-ais-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"C'était il y a quatre ans déjà\"",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -37,7 +68,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-dialogues-fran-ais-annotation-1.json",
+      "id": "movie-canvas-1-dialogues-fran-ais-annotation-2.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -68,7 +99,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-dialogues-fran-ais-annotation-2.json",
+      "id": "movie-canvas-1-dialogues-fran-ais-annotation-3.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -76,7 +107,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Non non arrête Kodjo, tu vas faire casser des disques\"",
+        "value": "\"Non non arrête Kodjo, tu vas faire casser les disques\"",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -99,7 +130,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-dialogues-fran-ais-annotation-3.json",
+      "id": "movie-canvas-1-dialogues-fran-ais-annotation-4.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -130,7 +161,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-dialogues-fran-ais-annotation-4.json",
+      "id": "movie-canvas-1-dialogues-fran-ais-annotation-5.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -161,7 +192,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-dialogues-fran-ais-annotation-5.json",
+      "id": "movie-canvas-1-dialogues-fran-ais-annotation-6.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -169,7 +200,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Je ne te dérange pas trop\"",
+        "value": "\"Je ne te dérange pas trop ?\"",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -192,7 +223,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-dialogues-fran-ais-annotation-6.json",
+      "id": "movie-canvas-1-dialogues-fran-ais-annotation-7.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -223,7 +254,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-dialogues-fran-ais-annotation-7.json",
+      "id": "movie-canvas-1-dialogues-fran-ais-annotation-8.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -231,7 +262,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"N'est pas jour de concert aujourdui?\"",
+        "value": "\"N'est-ce pas jour de concert aujourd'hui?\"",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -254,7 +285,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-dialogues-fran-ais-annotation-8.json",
+      "id": "movie-canvas-1-dialogues-fran-ais-annotation-9.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -262,7 +293,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Quoi que veux tu commence? Ravel? Debussy? Mozart?\"",
+        "value": "\"Par quoi veux-tu que je commence ? Ravel ? Debussy ? Mozart ?\"",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -285,7 +316,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-dialogues-fran-ais-annotation-9.json",
+      "id": "movie-canvas-1-dialogues-fran-ais-annotation-10.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -316,7 +347,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-dialogues-fran-ais-annotation-10.json",
+      "id": "movie-canvas-1-dialogues-fran-ais-annotation-11.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -324,7 +355,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Ce soir je vais faire éteindre la quatrième symphonie de Beethoven\"",
+        "value": "\"Ben, ce soir je vais te faire entendre la quatrième symphonie de Beethoven\"",
         "format": "text/plain",
         "purpose": "commenting"
       },

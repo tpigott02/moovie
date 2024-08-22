@@ -1,12 +1,12 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://tpigott02.github.io/moovie/annotations/movie-canvas-1-english-subtitles.json",
+  "id": "https://tpigott02.github.io/moovie/annotations/movie-canvas-1-props.json",
   "type": "AnnotationPage",
-  "label": "English Subtitles",
+  "label": "Props",
   "items": [
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-english-subtitles-annotation-0.json",
+      "id": "movie-canvas-1-props-annotation-0.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "“Warning: it was my intention to not set the action of the second part in a specific region of Black Africa. Paris February 28th, 1955.”",
+        "value": "Close-up shot showing two crocodile or alligator skins mounted on the wall as décor.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -31,13 +31,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "69.0,78.0"
+          "t": "84.0,85.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-english-subtitles-annotation-1.json",
+      "id": "movie-canvas-1-props-annotation-1.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -45,7 +45,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Four years ago already\"",
+        "value": "Medium shot showing a statue of a head of an African woman on top of a low black bookcase. The camera slowly zooms in on the statue until it becomes a big close-up.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -62,13 +62,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "415.0,419.0"
+          "t": "94.0,117.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-english-subtitles-annotation-2.json",
+      "id": "movie-canvas-1-props-annotation-2.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -76,38 +76,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Come in\"",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
-      "target": {
-        "source": {
-          "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
-          "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://tpigott02.github.io/moovie/movie/manifest.json",
-              "type": "Manifest"
-            }
-          ]
-        },
-        "selector": {
-          "type": "PointSelector",
-          "t": "420.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-english-subtitles-annotation-3.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": {
-        "type": "TextualBody",
-        "value": "\"No no stop it, Kodjo. You're gonna break the records\"",
+        "value": "A small sink and washing-up area shown in a medium close-up, then the camera pans down to show pans on the floor alongside the sink.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -124,13 +93,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "429.0,432.0"
+          "t": "128.0,136.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-english-subtitles-annotation-4.json",
+      "id": "movie-canvas-1-props-annotation-3.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -138,7 +107,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Good evening, Kodjo\"",
+        "value": "Medium close-up on Kodjo's feet under a desk, showing sandals and socks with toe hole",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -155,13 +124,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "433.0,435.0"
+          "t": "137.0,139.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-english-subtitles-annotation-5.json",
+      "id": "movie-canvas-1-props-annotation-4.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -169,7 +138,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Good evening, Beck\"",
+        "value": "<html>Close-up on a book which Kodjo is reading (<i>La crise de conscience européenne</i>)</html>",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -186,13 +155,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "437.0,438.0"
+          "t": "148.0,156.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-english-subtitles-annotation-6.json",
+      "id": "movie-canvas-1-props-annotation-5.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -200,7 +169,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"I'm not bothering you too much?\"",
+        "value": "Close-up on Kodjo's notes, reading \"La crise de conscience de l'Africain occidentalisé ??\"",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -217,13 +186,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "462.0,463.0"
+          "t": "162.0,166.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-english-subtitles-annotation-7.json",
+      "id": "movie-canvas-1-props-annotation-6.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -231,7 +200,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"No\"",
+        "value": "A lamp in the form of an African head in the mid-ground of medium close-up of Kodjo rolling a cigarette",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -248,13 +217,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "464.0,465.0"
+          "t": "175.0,176.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-english-subtitles-annotation-8.json",
+      "id": "movie-canvas-1-props-annotation-7.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -262,7 +231,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Isn't today concert day?\"",
+        "value": "Medium shot of Kodjo with a radio facing him in the foreground on the left of the shot and the lamp in the form of an African woman facing him on the right of the shot. Kodjo is shown filling his pipe with tobacco and holding it to his mouth",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -279,13 +248,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "466.0,468.0"
+          "t": "177.0,193.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-english-subtitles-annotation-9.json",
+      "id": "movie-canvas-1-props-annotation-8.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -293,7 +262,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"What do you want me to start with? Ravel? Debussy? Mozart?\"",
+        "value": "Medium close-up on Kodjo's bare, dancing feet",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -310,13 +279,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "476.0,481.0"
+          "t": "279.0,280.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-english-subtitles-annotation-10.json",
+      "id": "movie-canvas-1-props-annotation-9.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -324,7 +293,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Whatever you want\"",
+        "value": "Close-up of drum being played",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -341,13 +310,13 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "484.0,485.0"
+          "t": "283.0,284.0"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "movie-canvas-1-english-subtitles-annotation-11.json",
+      "id": "movie-canvas-1-props-annotation-10.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -355,7 +324,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Tonight I'm going to play Beethoven's fourth symphony for you.\"",
+        "value": "Medium close-up on Kodjo's bare, dancing feet",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -372,7 +341,193 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "488.0,491.0"
+          "t": "298.0,300.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "movie-canvas-1-props-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Close-up of drum being played",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tpigott02.github.io/moovie/movie/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "300.3,18090.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "movie-canvas-1-props-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Medium close-up on the woman's bare, dancing feet",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tpigott02.github.io/moovie/movie/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "303.0,304.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "movie-canvas-1-props-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Close-up of drum being played",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tpigott02.github.io/moovie/movie/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "362.0,363.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "movie-canvas-1-props-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In a medium long shot of Kodjo trying to dance and sing, the camera pans down to show his socked foot having fallen outside of his sandal",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tpigott02.github.io/moovie/movie/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "401.0,402.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "movie-canvas-1-props-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beck is shown in a medium shot opening the record player, flipping through records, and putting one on",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tpigott02.github.io/moovie/movie/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "468.0,503.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "movie-canvas-1-props-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beck tugs on Kodjo's sock with a hole in it before joining him on the bed",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tpigott02.github.io/moovie/movie/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tpigott02.github.io/moovie/movie/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "511.0,512.0"
         }
       }
     }

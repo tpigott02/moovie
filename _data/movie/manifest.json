@@ -12,6 +12,30 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://tpigott02.github.io/moovie/annotations/movie-canvas-1-props.json",
+            "label": {
+              "none": ["Props"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tpigott02.github.io/moovie/annotations/movie-canvas-1-info-on-props.json",
+            "label": {
+              "none": ["Info on Props"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tpigott02.github.io/moovie/annotations/movie-canvas-1-filmic-element.json",
+            "label": {
+              "none": ["Filmic element"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://tpigott02.github.io/moovie/annotations/movie-canvas-1-english-subtitles.json",
             "label": {
               "none": ["English Subtitles"]
@@ -28,9 +52,33 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://tpigott02.github.io/moovie/annotations/movie-canvas-1-other-research.json",
+            "label": {
+              "none": ["Other research"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://tpigott02.github.io/moovie/annotations/movie-canvas-1-dialogues-fran-ais.json",
             "label": {
               "none": ["Dialogues Français"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tpigott02.github.io/moovie/annotations/movie-canvas-1-scenes--image-.json",
+            "label": {
+              "none": ["Scenes (Image)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tpigott02.github.io/moovie/annotations/movie-canvas-1-scenes--sound-.json",
+            "label": {
+              "none": ["Scenes (Sound)"]
             }
           }
         ],
